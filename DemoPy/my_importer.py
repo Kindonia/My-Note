@@ -46,4 +46,10 @@ def install_meta(address):
 >>> import my_info  # 打印ok，说明导入成功
 ok
 >>> my_info.name  # 验证可以取得到变量
+
+https://docs.python.org/zh-cn/3/reference/import.html
+
+https://docs.python.org/zh-cn/3/library/importlib.html#module-importlib.abc
+
+https://python3-cookbook.readthedocs.io/zh_CN/latest/c10/p11_load_modules_from_remote_machine_by_hooks.html
 """
